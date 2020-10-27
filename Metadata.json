@@ -1,0 +1,20 @@
+{
+    "Author": "Mai Ali",
+    "ContentSize": 8017,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-azure-windows-server-vm-using-powershell/master/CreateAzureWinServer.ps1",
+    "DownloadCount": 933,
+    "Id": "Create-Azure-Windows-29b0969d",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 240,
+    "RaterCount": 14,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-12-20T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Script was created to install Azure VM  with Resource group including storage account, virtual network &  storage content . The below script is for installing Azure VM for Windows  Server 2012R2.",
+    "Title": "Create Azure Windows Server VM using PowerShell",
+    "UpdatedDate": "2017-12-20T00:00:00",
+    "Url": "https://github.com/azureautomation/create-azure-windows-server-vm-using-powershell",
+    "UserTags": "Microsoft Azure, Powershell, Powershell Script"
+}
